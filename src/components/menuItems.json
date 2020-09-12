@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Products",
+      "children": [
+        {
+          "name": "Pure Single Herbs",
+          "children": [
+            {
+              "name": "Ashwagandha",
+              "url": "/ashwagandha"
+            },
+            {
+              "name": "Shilajit",
+              "url": "/shilajit"
+            },
+            {
+              "name": "Triphala",
+              "url": "/triphala"
+            },
+            {
+              "name": "Spirulina",
+              "url": "/spirulina"
+            }
+          ]
+        },
+        {
+          "name": "Essential Mixed Herbs",
+          "children": [
+            {
+              "name": "Immunity booster",
+              "url": "/immunityBooster"
+            },
+            {
+              "name": "Hair Wellness",
+              "url": "/hairWellness"
+            },
+            {
+              "name": "Mind Wellness",
+              "url": "/mindWellness"
+            },
+            {
+              "name": "Skin Wellness",
+              "url": "/skinWellness"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "About Us",
+      "url": "/about"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
+    }
+  ]
+}

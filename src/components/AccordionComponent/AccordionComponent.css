@@ -1,0 +1,22 @@
+.accordion {
+    border-top: 1px solid #eee;
+}
+.accordionCard {
+    border: 0px;
+    border-bottom: 1px solid #eee !important;
+}
+
+.accordionCard .card-header {
+    background-color: #fff;
+    border-bottom: 0px;
+
+}
+
+.accordionCard .card-header .btn-link {
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+}
+.accordionCard .card-header .btn-link:active {
+    outline: none;
+}

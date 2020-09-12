@@ -1,0 +1,10 @@
+.blog {
+    border-top: 1px solid #eee;
+}
+
+.blogThumbnail {
+    height: calc(33.33% / 2) !important;
+}
+.blogPreface {
+    margin: 22px 0px;
+}

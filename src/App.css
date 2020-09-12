@@ -1,0 +1,61 @@
+body {
+    overflow-x: hidden;
+    font-family: Proxima Nova Alt Rg;
+    outline: none;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.pl-40 {
+    padding-left: 40px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.mt-80 {
+    margin-top: 80px;
+}
+
+.mb-80 {
+    margin-bottom: 80px;
+}
+
+.section-title {
+    margin-top: 80px;
+    margin-bottom: 50px;
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center;
+}
+
+.colorChange {
+    color: rgb(97, 160, 83);
+}
+
+
+
+@media screen and (min-width: 768px) {
+    .isMobile {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .isDesktop {
+        display: none;
+    }
+
+    .isMobile {
+        display: block;
+    }
+}
+
+

@@ -1,0 +1,107 @@
+
+.whyCaveAyurveda {
+    background-color: #f7f7f7;
+}
+
+.certifications img {
+    width: 100px;
+}
+
+.certifications img:not(:first-child) {
+    padding: 10px;
+}
+
+
+.certificationsRow .col-md-6:first-child {
+    border-right: 1px solid #eee;
+}
+
+.certificationsRow .col-md-6:last-child {
+    background-color: #ddd;
+}
+
+.termsConditions, .privacyPolicy {
+    border-top: 1px solid #ddd;
+}
+
+.whyCAMargin .btn-rounded {
+    width: 255px;
+    border-radius: 27px;
+    font-weight: bold;
+    margin: 10px 0px 20px;
+}
+
+
+.pureHerbs .card, .mixedHerbs .card {
+    box-shadow: 4px 4px 14px 0px grey
+}
+
+.productCard {
+    box-shadow: 1px 1px 8px grey;
+    border-radius: 13px;
+    padding: 10px;
+    background-color: #fff;
+    margin: 10px 11px;
+}
+
+
+.productCard .card-header {
+    background-color: #fff;
+}
+
+.whyCaveAyurveda, .pureHerbs, .mixedHerbs {
+    padding-bottom: 80px;
+}
+
+.mixedHerbs {
+    background: #f7f7f7;
+    padding-bottom: 80px;
+}
+
+.whyCAMargin {
+    text-align: center;
+}
+
+.certificationsRow {
+    margin: 10px 0px;
+    border: 1px solid #eee;
+}
+
+.ayushCenter {
+    padding: 18px 0px;
+}
+
+.gmpCenter {
+    padding: 15px 0px;
+}
+
+.isoCenter {
+    padding: 30px 0px;
+}
+
+.productCard a {
+    color: #000;
+    text-decoration: none;
+}
+
+.productCard a:hover {
+    color: rgb(97, 160, 83);
+    text-decoration: none;
+}
+
+@media screen and (min-width: 768px) {
+    .certificationsRow {
+        border: 1px solid #eee;
+        border-radius: 5px;
+        margin: 10px auto;
+    }
+
+    .productCard {
+        max-width: 23%;
+        margin: 0px 11px;
+    }
+
+    .whyCAMargin {
+        margin: 50px 0px;
+    }
+}

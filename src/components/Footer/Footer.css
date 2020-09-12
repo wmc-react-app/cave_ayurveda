@@ -1,0 +1,36 @@
+.footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer {
+    background-image: linear-gradient(to top left, rgb(97, 160, 83), rgb(56, 117, 28));
+}
+
+.footer h3 {
+    font-size: 16px;
+    color: #fff;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+
+.contactTable {
+    color: #fff;
+}
+
+.contactTable td {
+    border-top: 0px;
+}
+
+.contactTable i {
+    font-size: 16px;
+}
+
+.contactTable tr td {
+     padding: 0px;
+}
+.contactTable tr td:first-child {
+     padding: 0px 7px;
+}
+
