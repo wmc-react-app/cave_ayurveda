@@ -32,7 +32,7 @@ const Blog = (props) => {
                       </div>
                       <div className="col-md-6 blogPreface">
                         <h4 className='colorChange'>{value.title}</h4>
-                        <p>{value.synopsis}...<span><a href={`/mainBlog/${value.id}`} target='_blank' className='text-success '>Read More</a></span>
+                        <p>{value.synopsis}...<span><Link to={`/mainBlog/${value.id}`} target='_blank' className='text-success '>Read More</Link></span>
                         </p>
                       </div>
 
