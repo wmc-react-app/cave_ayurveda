@@ -20,8 +20,8 @@ const Header = (props) => {
   return (
       <div>
         <div className='topHeader text-center'>
-          <marquee className='text-white'><span className='deliveringHeader'>We are now delivering orders across India. Order Now on WhatsApp +91-8882422772.</span>Launch
-            offer: <strong>FLAT 25% OFF </strong>+ <strong>FREE SHIPPING!</strong>
+          <marquee className='text-white'><span className='deliveringHeader'>We are now delivering orders across India. </span>Launch
+            offer: FREE SHIPPING!</strong>
           </marquee>
         </div>
         <Navbar color="white" light expand="md">
