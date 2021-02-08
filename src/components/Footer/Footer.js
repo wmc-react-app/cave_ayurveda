@@ -54,7 +54,7 @@ class Footer extends Component {
                   </tr>
                   <tr>
                     <td><i className="fa fa-envelope-o" aria-hidden="true"></i></td>
-                    <td><p>caveayurveda@gmail.com</p></td>
+                    <td><p>support@nuagehealth.in</p></td>
                   </tr>
                   </tbody>
                 </table>
