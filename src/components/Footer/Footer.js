@@ -50,11 +50,11 @@ class Footer extends Component {
                   </tr>
                   <tr>
                     <td><i className="fa fa-phone" aria-hidden="true"></i></td>
-                    <td><p>+91-8882422772</p></td>
+                    <td><p>+91-888242277222222</p></td>
                   </tr>
                   <tr>
                     <td><i className="fa fa-envelope-o" aria-hidden="true"></i></td>
-                    <td><p>support@nuagehealth1.in</p></td>
+                    <td><p>support@nuagehealth.in</p></td>
                   </tr>
                   </tbody>
                 </table>
